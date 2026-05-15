@@ -29,3 +29,4 @@ Inside this repository, you will find three distinct types of security evaluatio
 *A full-length academic paper demonstrating my technical mastery in blockchain security combined with bilingual translation excellence (Arabic/English).*
 
 *Disclaimer: These reports are for portfolio and educational purposes based on on-chain data at the time of audit and do not constitute financial advice.*
+- 🛡️ **[Manual Technical Audit - Reentrancy Analysis]**: Deep dive into smart contract logic and manual vulnerability detection.
