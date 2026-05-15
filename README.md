@@ -23,5 +23,9 @@ Inside this repository, you will find three distinct types of security evaluatio
 *   Liquidity Lock & Top Holder Concentration Analysis
 *   Solana & TON Project Mindshare & Security Evaluation
 
----
+------
+### 🎓 Featured Academic Work
+**[Comprehensive Crypto Security & Localization Study]**
+*A full-length academic paper demonstrating my technical mastery in blockchain security combined with bilingual translation excellence (Arabic/English).*
+
 *Disclaimer: These reports are for portfolio and educational purposes based on on-chain data at the time of audit and do not constitute financial advice.*
